@@ -1,0 +1,9 @@
+* TODO visual studio codeの環境設定
+** visual studio code
+clangなるものを入れた。これが補完をしてくれるらしい。
+Please install [clang](http://clang.llvm.org/) or check configuration `clang.executable`
+っていうerrorが出てて謎い。
+edit configurationをなんかすれば良い？
+http://kutimoti.hatenablog.com/entry/2018/03/02/103105
+しばらくはこれを参照していた。
+今のerrorとは・・・？
