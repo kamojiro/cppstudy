@@ -1,4 +1,3 @@
-* TODO visual studio codeの環境設定
 ** visual studio code
 clangなるものを入れた。これが補完をしてくれるらしい。
 Please install [clang](http://clang.llvm.org/) or check configuration `clang.executable`
@@ -7,3 +6,9 @@ edit configurationをなんかすれば良い？
 http://kutimoti.hatenablog.com/entry/2018/03/02/103105
 しばらくはこれを参照していた。
 今のerrorとは・・・？
+今日やってたらできてた。
+再起動したからかな。
+あんまりいい感じの予測変換はしてくれない
+* fundamental
+g++ -o hollo.exe hollo.c
+
