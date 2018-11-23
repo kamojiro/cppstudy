@@ -17,6 +17,9 @@ using namespace std;
 ** input
 | n,i = map( int, input().split()) | cin >> n >> i; |
 ** for
+文字列もfor文で回せる
 |for C in range(1,C+1,2):|  for (int C = 1; C <= N;C+=2){|
-** library
 
+** library
+** yasnippet
+C-dでいい感じ
